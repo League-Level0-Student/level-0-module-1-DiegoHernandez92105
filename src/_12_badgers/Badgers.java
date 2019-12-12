@@ -11,7 +11,7 @@ public class Badgers {
 			int random = factory.nextInt(6);
 			
 			if (random == 0) {
-						
+					
 				System.out.print(" Badger");
 				
 			}
